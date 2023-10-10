@@ -435,12 +435,6 @@
       {
         "name": "music.game",
         "type": "event"
-      },
-      {
-        "name": "music/game/droopy",
-        "stream": true,
-        "volume": 0.6,
-        "weight": 2
       }
     ]
   },
