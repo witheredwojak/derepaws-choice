@@ -68,3 +68,5 @@ Combined packs:
 2. https://modrinth.com/resourcepack/vanilla-mending
 
 3. https://modrinth.com/resourcepack/c4music
+
+4. https://modrinth.com/resourcepack/enchant-icons-colorless-countxd
