@@ -3,70 +3,23 @@ Used & Edited Packs:
 1. https://vanillatweaks.net/
 
 Selected Packs:
-	ItemStitchingFix
-	JappaToasts
-	JappaStatsIcons
-	JappaSpecIcons
-	DripleafFixBig
-	DripleafFixSmall
-	ConsistentUIFix
-	ConsistentDecorPot
-	CactusBottomFix
-	ConsistentHelmets
-	HangingSignLogs
-	BlazeFix
-	SlimeParticleFix
-	IronBarsFix
+	PingColorIndicator
+	LowerShield
+	VisualHoney
+	ClearBannerPatterns
+	DifferentStems
+	HDShieldBanners
 	CloudFogFix
 	HoeFix
-	BedrockDragonProjectile
-	OldLava
-	BedIcons
-	OldXpSounds
-	PingColorIndicator
-	LowerFire
-	LowerShield
-	CleanerWorldBorder
-	TransparentPumpkin
-	ClearBannerPatterns
-	MusicDiscRedstonePreview
-	DirectionalDispensersDroppers
-	RedstonePowerLevels
-	GroovyLevers
-	CompassLodestone
-	VisualHoney
-	NoteblockBanners
-	TwinklingStars
-	FancySunflowers
-	DifferentStems
-	SidewaysNuggets
-	RedIronGolemFlowers
-	BetterParticles
-	HDShieldBanners
-	UniqueDyes
-	AnimatedCampfireItem
-	SplashXpBottle
-	PlainLeatherArmor
+	IronBarsFix
 	ProperBreakParticles
-	DirectionalHoppers
-	StickyPistonSides
-	BedrockPistonArms
-	JappaObserver
-	BetterObservers
-	NoJavaEditionTitle
-	ClassicMinecraftLogo
+	SlimeParticleFix
+	BlazeFix
+	ItemStitchingFix
 	NoBowlParticles
 	ItemHoldFix
 
 Combined packs:
 	ItemHoldFix+NoBowlParticles
-	ClassicMinecraftLogo+NoJavaEditionTitle
-	BetterObservers+JappaObserver
-	BedrockPistonArms+StickyPistonSides
-	DirectionalHoppers+ProperBreakParticles
 
 2. https://modrinth.com/resourcepack/vanilla-mending
-
-3. https://modrinth.com/resourcepack/c4music
-
-4. https://modrinth.com/resourcepack/enchant-icons-colorless-countxd
