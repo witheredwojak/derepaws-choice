@@ -32,3 +32,4 @@ Removed:
 	Environment
 	Creeper
 	Grass Block Top
+	Language Icon
