@@ -23,3 +23,12 @@ Combined packs:
 	ItemHoldFix+NoBowlParticles
 
 2. https://modrinth.com/resourcepack/vanilla-mending
+
+Removed:
+	Paintings
+	Armor
+	Particles
+	Arrows
+	Environment
+	Creeper
+	Grass Block Top
