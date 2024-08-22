@@ -34,3 +34,4 @@ Removed:
 	Creeper
 	Grass Block Top
 	Language Icon
+	Recipe Book Button
