@@ -3,20 +3,19 @@ Used & Edited Packs:
 1. https://vanillatweaks.net/
 
 Selected Packs:
-	FancySunflowers
-	PingColorIndicator
-	LowerShield
-	VisualHoney
-	ClearBannerPatterns
-	DifferentStems
-	HDShieldBanners
-	CloudFogFix
+	VariatedVillagers
 	HoeFix
 	IronBarsFix
 	ProperBreakParticles
 	SlimeParticleFix
-	BlazeFix
-	ItemStitchingFix
+	VisualHoney
+	DifferentStems
+	UniqueSpawnEggs
+	StickyPistonSides
+	LowerShield
+	PingColorIndicator
+	FancySunflowers
+	HDShieldBanners
 	NoBowlParticles
 	ItemHoldFix
 
@@ -34,4 +33,3 @@ Removed:
 	Creeper
 	Grass Block Top
 	Language Icon
-	Recipe Book Button
