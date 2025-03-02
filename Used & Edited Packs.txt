@@ -32,5 +32,6 @@ Removed:
 	Environment
 	Creeper
 	Grass Block Top
+	Bone Meal
 	HUD
 	Language Icon
