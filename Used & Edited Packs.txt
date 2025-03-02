@@ -32,4 +32,5 @@ Removed:
 	Environment
 	Creeper
 	Grass Block Top
+	HUD
 	Language Icon
