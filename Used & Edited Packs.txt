@@ -26,6 +26,6 @@ Combined packs:
 
 Taken from it:
 	Entities (-Creeper, -Signs, -Villager)
-	GUI (-Hanging Signs, -HUD, -Language icon)
+	GUI (-Hanging Signs, -HUD, -Tooltip, -Language icon)
 	Music Discs
 	Spawn Eggs
