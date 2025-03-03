@@ -3,17 +3,17 @@ Used & Edited Packs:
 1. https://vanillatweaks.net/
 
 Selected Packs:
-	VariatedVillagers
-	HoeFix
-	IronBarsFix
+	JappaObserver
 	ProperBreakParticles
+	IronBarsFix
+	HoeFix
 	SlimeParticleFix
-	VisualHoney
-	DifferentStems
-	UniqueSpawnEggs
-	StickyPistonSides
-	LowerShield
 	PingColorIndicator
+	LowerShield
+	DifferentStems
+	StickyPistonSides
+	VisualHoney
+	VariatedVillagers
 	FancySunflowers
 	HDShieldBanners
 	NoBowlParticles
@@ -24,14 +24,8 @@ Combined packs:
 
 2. https://modrinth.com/resourcepack/vanilla-mending
 
-Removed:
-	Paintings
-	Armor
-	Particles
-	Arrows
-	Environment
-	Creeper
-	Grass Block Top
-	Bone Meal
-	HUD
-	Language Icon
+Taken from it:
+	Entities (-Creeper, -Signs, -Villager)
+	GUI (-Hanging Signs, -HUD, -Language icon)
+	Music Discs
+	Spawn Eggs
