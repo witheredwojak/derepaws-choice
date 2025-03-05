@@ -1,0 +1,11 @@
+{
+  "woosh": {
+    "subtitle": "subtitles.double_hotbar.woosh",
+    "sounds": [
+      {
+        "name": "double_hotbar:woosh",
+        "pitch": 1.5
+      }
+    ]
+  }
+}
