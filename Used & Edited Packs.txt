@@ -1,7 +1,6 @@
 Used & Edited Packs:
 
 1. https://vanillatweaks.net/
-
 Selected Packs:
 	JappaObserver
 	ProperBreakParticles
@@ -18,14 +17,16 @@ Selected Packs:
 	HDShieldBanners
 	NoBowlParticles
 	ItemHoldFix
-
 Combined packs:
 	ItemHoldFix+NoBowlParticles
 
 2. https://modrinth.com/resourcepack/vanilla-mending
-
 Taken from it:
 	Entities (-Creeper, -Signs, -Villager)
 	GUI (-Hanging Signs, -HUD, -Tooltip, -Language icon)
 	Music Discs
 	Spawn Eggs
+
+3. https://modrinth.com/resourcepack/classic-menu-panorama
+
+4. Custom edit of https://www.curseforge.com/minecraft/texture-packs/bedrock-edition so the model works properly on newer versions
