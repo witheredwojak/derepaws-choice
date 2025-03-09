@@ -1,11 +1,20 @@
 {
   "woosh": {
-    "subtitle": "subtitles.double_hotbar.woosh",
     "sounds": [
       {
-        "name": "double_hotbar:woosh",
-        "pitch": 1.5
+        "name": "ui/toast/in",
+        "pitch": 1.2
+      },
+      {
+        "name": "ui/toast/in",
+        "pitch": 1.3
+      },
+      {
+        "name": "ui/toast/in",
+        "pitch": 1.4
       }
-    ]
+    ],
+    "subtitle": "subtitles.double_hotbar.woosh",
+    "replace": "true"
   }
 }
