@@ -29,4 +29,11 @@ Taken from it:
 
 3. https://modrinth.com/resourcepack/classic-menu-panorama
 
-4. Custom edit of https://www.curseforge.com/minecraft/texture-packs/bedrock-edition so the model works properly on newer versions
+4. https://www.curseforge.com/minecraft/texture-packs/bedrock-edition
+Edited:
+	Fixed model to work on newer versions
+
+5. https://modrinth.com/resourcepack/cornbreads-music-fixer
+Edited:
+	Changed yakusoku volume to 0.4
+	Removed old pre-1.20.3 generic music names
