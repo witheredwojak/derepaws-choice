@@ -1,0 +1,13 @@
+- Slight texture fixes and QoL changes.
+- A few retextures of what was not changed during Texture Update to make it
+more consistent with Jappa's style.
+- Classic logo and panorama (but with modern textures).
+- More "fleshy" damage sounds (1.0.0-1.4.2).
+- Diverse skin colors for villagers.
+- Bedrock style baby villagers (bigger heads).
+- Visual honey levels.
+- Visual redstone signal strength.
+- Lower shield model in hands.
+- Slightly rebalanced music.
+- Textures that are closer to vanilla for Controlify mod.
+- Vanilla swoosh sounds for Double Hotbar mod.
