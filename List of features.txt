@@ -9,5 +9,6 @@ more consistent with Jappa's style.
 - Visual redstone signal strength.
 - Lower shield model in hands.
 - Slightly rebalanced music.
+- Restored deleted splashes and added Notch to the credits.
 - Textures that are closer to vanilla for Controlify mod.
 - Vanilla swoosh sounds for Double Hotbar mod.
