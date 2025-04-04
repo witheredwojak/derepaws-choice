@@ -2,19 +2,19 @@ Used & Edited Packs:
 
 1. https://vanillatweaks.net/
 Selected Packs:
+	HoeFix
+	HDShieldBanners
+	FancySunflowers
+	DifferentStems
+	StickyPistonSides
+	UniqueAxolotlBuckets
+	VisualHoney
+	LowerShield
+	PingColorIndicator
 	JappaObserver
 	ProperBreakParticles
 	IronBarsFix
-	HoeFix
 	SlimeParticleFix
-	PingColorIndicator
-	LowerShield
-	DifferentStems
-	StickyPistonSides
-	VisualHoney
-	VariatedVillagers
-	FancySunflowers
-	HDShieldBanners
 	NoBowlParticles
 	ItemHoldFix
 Combined packs:
@@ -22,10 +22,9 @@ Combined packs:
 
 2. https://modrinth.com/resourcepack/vanilla-mending
 Taken from it:
-	Entities (-Creeper, -Signs, -Villager)
+	Entities (-Creeper, -Signs)
 	GUI (-Hanging Signs, -HUD, -Tooltip, -Language icon)
 	Music Discs
-	Spawn Eggs
 
 3. https://modrinth.com/resourcepack/classic-menu-panorama
 
