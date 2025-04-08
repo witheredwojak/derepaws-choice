@@ -5,6 +5,7 @@ more consistent with Jappa's style.
 - More "fleshy" damage sounds (1.0.0-1.4.2).
 - Bedrock style baby villagers (bigger heads).
 - Visual honey levels.
+- 2D beds in inventory, but 3D when held in hands.
 - Visual redstone signal strength.
 - Lower shield model in hands.
 - Slightly rebalanced music.

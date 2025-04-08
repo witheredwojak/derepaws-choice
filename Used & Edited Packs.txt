@@ -36,3 +36,7 @@ Edited:
 Edited:
 	Changed yakusoku volume to 0.4
 	Removed old pre-1.20.3 generic music names
+
+6. https://modrinth.com/resourcepack/bed-icons
+Edited:
+	Replaced bed item textures with those from Bedrock Edition
