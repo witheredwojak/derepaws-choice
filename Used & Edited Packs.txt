@@ -6,7 +6,6 @@ Selected Packs:
 	HDShieldBanners
 	FancySunflowers
 	DifferentStems
-	StickyPistonSides
 	UniqueAxolotlBuckets
 	VisualHoney
 	LowerShield

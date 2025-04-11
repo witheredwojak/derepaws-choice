@@ -1,15 +1,20 @@
-- Slight texture fixes and QoL changes.
-- A few retextures of what was not changed during Texture Update to make it
+• Slight texture fixes.
+• Some QoL changes:
+	- Full resolution banners on shields.
+	- Lower shield model in hands.
+	- Different stems for pumpkins and melons.
+	- Unique axolotl buckets.
+	- Visual honey levels.
+	- Visual redstone signal strength.
+	- Colored ping indicator.
+• A few retextures of what was not changed during Texture Update to make it
 more consistent with Jappa's style.
-- Classic logo and panorama (but with modern textures).
-- More "fleshy" damage sounds (1.0.0-1.4.2).
-- Bedrock style baby villagers (bigger heads).
-- Visual honey levels.
-- 2D beds in inventory, but 3D when held in hands.
-- Visual redstone signal strength.
-- Lower shield model in hands.
-- Slightly rebalanced music.
-- Restored pre-1.21.5 grass sounds volume
-- Restored deleted splashes and added Notch to the credits.
-- Textures that are closer to vanilla for Controlify mod.
-- Vanilla swoosh sounds for Double Hotbar mod.
+• Classic logo and panorama (but with modern textures).
+• More "fleshy" damage sounds (1.0.0-1.4.2).
+• Bedrock style baby villagers (bigger heads).
+• 2D beds in inventory, but 3D when held in hands.
+• Slightly rebalanced music.
+• Restored pre-1.21.5 grass sounds volume
+• Restored deleted splashes and added Notch to the credits.
+• Textures that are closer to vanilla for Controlify mod.
+• Vanilla swoosh sounds for Double Hotbar mod.
