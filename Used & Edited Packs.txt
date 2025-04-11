@@ -38,4 +38,8 @@ Edited:
 
 6. https://modrinth.com/resourcepack/bed-icons
 Edited:
-	Replaced bed item textures with those from Bedrock Edition
+	Replaced bed item textures with those from resourcepack below
+
+7. https://www.planetminecraft.com/texture-pack/bed-items/
+Taken from it:
+	Bed item textures
