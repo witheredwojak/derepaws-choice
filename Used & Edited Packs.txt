@@ -39,3 +39,5 @@ Edited:
 6. https://www.planetminecraft.com/texture-pack/bed-items/
 Taken from it:
 	Bed item textures
+
+7. https://modrinth.com/resourcepack/jams-rabbit-eyes
