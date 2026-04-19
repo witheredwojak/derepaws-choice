@@ -33,6 +33,7 @@ Edited:
 
 5. https://modrinth.com/resourcepack/bed-icons
 Edited:
+	Fixed for newer versions (Thanks to lowercasebtw!)
 	Replaced bed item textures with those from resourcepack below
 
 6. https://www.planetminecraft.com/texture-pack/bed-items/
