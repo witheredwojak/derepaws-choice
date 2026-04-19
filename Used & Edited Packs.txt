@@ -16,8 +16,6 @@ Selected Packs:
 	SlimeParticleFix
 	NoBowlParticles
 	ItemHoldFix
-Combined packs:
-	ItemHoldFix+NoBowlParticles
 
 2. https://modrinth.com/resourcepack/vanilla-mending
 Taken from it:
@@ -27,19 +25,16 @@ Taken from it:
 
 3. https://modrinth.com/resourcepack/classic-menu-panorama
 
-4. https://www.curseforge.com/minecraft/texture-packs/bedrock-edition
-Edited:
-	Fixed model to work on newer versions
-
-5. https://modrinth.com/resourcepack/cornbreads-music-fixer
+4. https://modrinth.com/resourcepack/cornbreads-music-fixer-bedrock-style
 Edited:
 	Changed yakusoku volume to 0.4
 	Removed old pre-1.20.3 generic music names
+	Reverted volume changes to Java version of the pack
 
-6. https://modrinth.com/resourcepack/bed-icons
+5. https://modrinth.com/resourcepack/bed-icons
 Edited:
 	Replaced bed item textures with those from resourcepack below
 
-7. https://www.planetminecraft.com/texture-pack/bed-items/
+6. https://www.planetminecraft.com/texture-pack/bed-items/
 Taken from it:
 	Bed item textures

@@ -11,10 +11,8 @@
 more consistent with Jappa's style.
 • Classic logo and panorama (but with modern textures).
 • More "fleshy" damage sounds (1.0.0-1.4.2).
-• Bedrock style baby villagers (bigger heads).
 • 2D beds in inventory, but 3D when held in hands.
 • Slightly rebalanced music.
-• Restored pre-1.21.5 grass sound volume.
 • Restored deleted splashes and added Notch to the credits.
 • Textures that are closer to vanilla for Controlify mod.
 • Vanilla swoosh sounds for Double Hotbar mod.
